@@ -18,7 +18,7 @@ int main()
 {
    // array y longitud
    Array<int> a = array<int>();
-
+   cout << "agrego esto para ver si se guardan cambios" << endl;
    arrayAdd<int>(a, 10);
    arrayAdd<int>(a, 20);
    arrayAdd<int>(a, 30);
