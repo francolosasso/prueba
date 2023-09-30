@@ -23,6 +23,8 @@ int main()
    arrayAdd<int>(a, 20);
    arrayAdd<int>(a, 30);
    // el size del array?
+
+   cout << "prueba de nueva rama" << endl;
    cout << arraySize<int>(a) << endl; // Salida: 3
    return 0;
 }
